@@ -1,2 +1,1 @@
-这是我的第一个自创git库
-13b85e7 (Initial commit)
+git上传本地文件至git仓库
